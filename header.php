@@ -145,13 +145,13 @@
 				</section>
 				<nav id="v_nav">
 					<dl id="panels">
-					<a href=""><dt id="panel_1">
+					<a href="index.php"><dt id="panel_1">
 						<div id="news">
 							<div id="icon"></div>
 							<span id="icon_title">news</span>
 						</div>
 					</dt></a>
-					<a href=""><dt id="panel_2">
+					<a href="photos.php"><dt id="panel_2">
 						<div id="photos">
 							<div id="icon"></div>
 							<span id="icon_title">photos</span>
