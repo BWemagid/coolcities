@@ -1,0 +1,35 @@
+#identity{
+	display: inline-block;
+	position: relative;
+	margin: 0 0 0 3.85%;
+}
+#h_nav{
+	display: inline-block;
+	position: relative;
+	top: -17px;
+	margin: 0 0 0 2%;
+}
+#nav_right{
+	display: inline-block;
+	margin:13px 2% 0 0;
+	float: right;
+	width: 180px;
+}
+#search_bar{
+	display: inline-block;
+	width: 43%;
+}
+#search{
+	width: 250%;
+}
+#field{
+	border: 1px solid #fff;
+	height: 20px;
+	width: 30%;
+	border-radius: 5px;
+	padding-left: 7px;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
